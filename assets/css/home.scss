@@ -1,0 +1,30 @@
+---
+---
+
+* { box-sizing: border-box; }
+
+body { font-family: sans-serif; }
+
+/* clearfix */
+.grid:after {
+  content: '';
+  display: block;
+  clear: both;
+}
+
+/* ---- grid-item ---- */
+
+.grid-sizer,
+.grid-item {
+  width: 32%;
+  padding: 17px 20px;
+}
+
+.grid-item--gigante {
+  width: 100%;
+}
+
+.grid-item img {
+  display: block;
+  max-width: 100%;
+}

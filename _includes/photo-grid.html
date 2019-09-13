@@ -1,0 +1,10 @@
+<div class="grid">
+  <div class="grid-sizer"></div>
+  {% for image in site.static_files %}
+      {% if image.path contains 'images/ON_' %}
+      <div class="grid-item">
+          <img src="{{site.baseurl}}{{image.path}}" alt="image" title="{{site.baseurl}}{{image.path}}"/>
+      </div>
+      {% endif %}
+  {% endfor %}
+</div>
