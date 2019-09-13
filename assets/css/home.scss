@@ -28,3 +28,13 @@ body { font-family: sans-serif; }
   display: block;
   max-width: 100%;
 }
+
+/* --- family tree -- */
+#chart_div {
+  table tr {
+    background-color: white;
+  }
+  .google-visualization-orgchart-node {
+    border: none;
+  }
+}
