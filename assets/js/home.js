@@ -4,7 +4,7 @@ jQuery(document).ready(function($){
         itemSelector: '.grid-item',
         percentPosition: true,
         columnWidth: '.grid-sizer',
-        // gutter: 10
+        gutter: 10
     });
 
     $grid.imagesLoaded().progress(function(){
