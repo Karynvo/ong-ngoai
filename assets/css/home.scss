@@ -38,6 +38,12 @@ body { font-family: sans-serif; }
 
 .grid-item--gigante {
   width: 100%;
+  max-height: 100vh;
+  // min-height: 100vh;
+}
+
+.grid-item--gigante img {
+  max-height: 100vh;
 }
 
 .grid-item img {
