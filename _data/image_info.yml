@@ -1,129 +1,232 @@
 - filename: tonthat_family_full
-  description: The Ton-That family featuring an arrow pointing at Ton-That Niem
+  description: The Tôn Thất family featuring an arrow pointing at Tôn Thất Niệm
+  vn-description: Gia đình Tôn Thất. Mũi tên chỉ Tôn Thất Niệm
+- filename: nguyen_thi_nguyet_cuong_hong
+  description: Nguyễn Thị Nguyệt with siblings Hồng and Cường
+  vn-description: Nguyễn Thị Nguyệt với em Hồng và Cường
 - filename: tonthat_niem_arc_de_triomphe
-  description: Ton-That Niem stands in front of the Arc De Triomphe in Paris, France
+  description: Tôn Thất Niệm stands in front of the Arc De Triomphe in Paris, France
+  vn-description: Tôn Thất Niệm bên cạnh Arc De Triomphe ở Paris, France
 - filename: tonthat_niem_singing_microphone
-  description: Ton-That Niem sings with onstage with a microphone stand
+  description: Tôn Thất Niệm sings with onstage with a microphone stand
+  vn-description: Tôn Thất Niệm hát 
+- filename: nguyen_thi_nguyet_nhat_5_1_1954
+  description: "1954 Far right: Nguyễn Thị Nguyệt. Far left: Nguyễn Thị Nhật"
+  vn-description: "1954 Bên phải: Nguyễn Thị Nguyệt. Bên trái: Nguyễn Thị Nhật"
 - filename: tonthat_niem_walking
-  description: Ton-That Niem walks down the street with another man
+  description: Tôn Thất Niệm
+  vn-description: Tôn Thất Niệm
+- filename: nguyen_thi_nguyet-5
+  description: Nguyễn Thị Nguyệt
+  vn-description: Nguyễn Thị Nguyệt
 - filename: tonthat_niem_standing
-  description: Ton-That Niem stands in front of a building with four other people
+  description: Tôn Thất Niệm
+  vn-description: Tôn Thất Niệm
+- filename: nguyen_thi_nguyet-10
+  description: Nguyễn Thị Nguyệt
+  vn-description: Nguyễn Thị Nguyệt
 - filename: tonthat_niem_student_classroom
-  description: Ton-That Niem in a classroom with other students
+  description: Tôn Thất Niệm in a classroom with other students
+  vn-description: Tôn Thất Niệm sinh viên
 - filename: tonthat_niem_student_gathering
-  description: Ton-That Niem at a student gathering
+  description: Tôn Thất Niệm at a student gathering
+  vn-description: Tôn Thất Niệm sinh viên
 - filename: tonthat_niem_student_group
-  description: Ton-That Niem as a student in a group
+  description: Tôn Thất Niệm as a student in a group
+  vn-description: Tôn Thất Niệm sinh viên
 - filename: tonthat_niem_singer_flowers
-  description: Ton-That Niem standing with a bouquet of flowers
-- filename: tonthat_niem_nguyen_nguyet_wedding_ceremony
-  description: Ton-That Niem and Nguyen Nguyet carry out the wedding ceremony
-- filename: tonthat_niem_nguyen_nguyet_wedding_reception
-  description: Ton-That Niem and Nguyen Nguyet greet guests at their wedding reception
-- filename: tonthat_niem_nguyen_nguyet_wedding_photo
-  description: Ton-That Niem and Nguyen Nguyet pose at their wedding
-- filename: tonthat_niem_nguyen_nguyet_wedding_photo_2
-  description: Ton-That Niem and Nguyen Nguyet with the wedding party and the parents of the bride
-- filename: tonthat_niem_nguyen_nguyet_wedding_standing
-  description: Ton-That Niem and Nguyen Nguyet at their wedding
-- filename: tonthat_niem_nguyen_nguyet_da_lat_1
-  description: Ton-That Niem and Nguyen Nguyet in Da Lat
+  description: Tôn Thất Niệm
+  vn-description: Tôn Thất Niệm
+- filename: tonthat_niem_nguyen_thi_nguyet_wedding_ceremony
+  description: Tôn Thất Niệm and Nguyễn Thị Nguyệt carry out the wedding ceremony
+  vn-description: Đám cưới của Tôn Thất Niệm and Nguyễn Thị Nguyệt
+- filename: tonthat_niem_nguyen_thi_nguyet_wedding_reception
+  description: Tôn Thất Niệm and Nguyễn Thị Nguyệt greet guests at their wedding reception
+  vn-description: Đám cưới của Tôn Thất Niệm and Nguyễn Thị Nguyệt
+- filename: tonthat_niem_nguyen_thi_nguyet_wedding_photo
+  description: Tôn Thất Niệm and Nguyễn Thị Nguyệt pose at their wedding
+  vn-description: Đám cưới của Tôn Thất Niệm and Nguyễn Thị Nguyệt
+- filename: tonthat_niem_nguyen_thi_nguyet_wedding_photo_2
+  description: Tôn Thất Niệm and Nguyễn Thị Nguyệt with the wedding party and the parents of the bride
+  vn-description: Đám cưới của Tôn Thất Niệm and Nguyễn Thị Nguyệt
+- filename: tonthat_niem_nguyen_thi_nguyet_wedding_standing
+  description: Tôn Thất Niệm and Nguyễn Thị Nguyệt at their wedding
+  vn-description: Đám cưới của Tôn Thất Niệm and Nguyễn Thị Nguyệt
+- filename: tonthat_niem_nguyen_thi_nguyet_da_lat_1
+  description: Tôn Thất Niệm and Nguyễn Thị Nguyệt in Da Lat
+  vn-description: Tôn Thất Niệm và Nguyễn Thị Nguyệt ở Da Lat
+- filename: nguyen_thi_nguyet-4
+  description: Nguyễn Thị Nguyệt
+  vn-description: Nguyễn Thị Nguyệt
 - filename: tonthat_niem_da_lat
-  description: Ton-That Niem in Da Lat
-- filename: tonthat_niem_nguyen_nguyet_da_lat_2
-  description: Ton-That Niem and Nguyen Nguyet in Da Lat
-- filename: tonthat_niem_nguyen_nguyet_da_lat_3
-  description: Ton-That Niem and Nguyen Nguyet in Da Lat
+  description: Tôn Thất Niệm in Da Lat
+  vn-description: Tôn Thất Niệm ở Da Lat
+- filename: tonthat_niem_nguyen_thi_nguyet_da_lat_2
+  description: Tôn Thất Niệm and Nguyễn Thị Nguyệt in Da Lat
+  vn-description: Tôn Thất Niệm ở Da Lat
+- filename: tonthat_niem_nguyen_thi_nguyet_da_lat_3
+  description: Tôn Thất Niệm and Nguyễn Thị Nguyệt in Da Lat
+  vn-description: Tôn Thất Niệm ở Da Lat
 - filename: tonthat_niem_1970
-  description: Ton-That Niem stands with his father on the far left
-- filename: nguyen_nguyet_airplane
-  description: Nguyen Nguyet walks in front of an airplane with a group of people
+  description: Tôn Thất Niệm stands with his father on the far left
+  vn-description: Tôn Thất Niệm đúng với Ba ở bên trái
+- filename: nguyen_thi_nguyet_airplane
+  description: Nguyễn Thị Nguyệt walks in front of an airplane with a group of people
+  vn-description: Nguyễn Thị Nguyệt
 - filename: tonthat_niem_ban_me_thuot
-  description: Ton-That Niem is accompanied by government officials in Ban Me Thuot while medical staff look-on
+  description: Tôn Thất Niệm is accompanied by government officials in Ban Me Thuot while medical staff look-on
+  vn-description: Tôn Thất Niệm
+- filename: nguyen_thi_nguyet-9
+  description: Nguyễn Thị Nguyệt
+  vn-description: Nguyễn Thị Nguyệt
 - filename: tonthat_niem_medical_tour
-  description: Ton-That Niem tours a medical facility
+  description: Tôn Thất Niệm tours a medical facility
+  vn-description: Tôn Thất Niệm
+- filename: nguyen_thi_nguyet-3
+  description: Nguyễn Thị Nguyệt
+  vn-description: Nguyễn Thị Nguyệt
 - filename: tonthat_niem_medical_office
-  description: Ton-That Niem stands in the front door of his medical office in Ban Me Thuot
+  description: Tôn Thất Niệm stands in the front door of his medical office in Ban Me Thuot
+  vn-description: Tôn Thất Niệm
 - filename: tonthat_niem_nguyen_thi_nguyet
-  description: Ton-That Niem and Nguyen Thi Nguyet
+  description: Tôn Thất Niệm and Nguyễn Thị Nguyệt
+  vn-description: Tôn Thất Niệm và Nguyễn Thị Nguyệt
 - filename: nguyen_thi_nguyet_que_phuong_1
-  description: Nguyen Thi Nguyet holds Que Phoung
+  description: Nguyễn Thị Nguyệt holds Quế Phương
+  vn-description: Nguyễn Thị Nguyệt và Quế Phương
+- filename: nguyen_thi_nguyet_qp
+  description: Nguyễn Thị Nguyệt and Quế Phương
+  vn-description: Nguyễn Thị Nguyệt và Quế Phương
+- filename: nguyen_thi_nguyet_qp-2
+  description: Nguyễn Thị Nguyệt and Quế Phương
+  vn-description: Nguyễn Thị Nguyệt và Quế Phương
+- filename: nguyen_thi_nguyet_qp-3
+  description: Nguyễn Thị Nguyệt and Quế Phương
+  vn-description: Nguyễn Thị Nguyệt và Quế Phương
+- filename: nguyen_thi_nguyet_qp-4
+  description: Nguyễn Thị Nguyệt and Quế Phương
+  vn-description: Nguyễn Thị Nguyệt và Quế Phương
 - filename: tonthat_niem_que_phuong
-  description: Ton-That Niem holds Que Phoung
+  description: Tôn Thất Niệm holds Quế Phương
+  vn-description: Tôn Thất Niệm và Quế Phương
 - filename: tonthat_siblings
-  description: The Ton-That siblings with Nguyen Thi Nguyet
+  description: The Tôn Thất siblings with Nguyễn Thị Nguyệt
+  vn-description: Gia đình Tôn Thất với Nguyễn Thị Nguyệt
 - filename: tonthat_nguyen_family_portrait
-  description: Ton-That Niem, Nguyen Thi Nguyet, and Que Phuong
+  description: Tôn Thất Niệm, Nguyễn Thị Nguyệt, and Quế Phương
+  vn-description: Tôn Thất Niệm, Nguyễn Thị Nguyệt, và Quế Phương
 - filename: tonthat_nguyen_gathering
-  description: Ton-That Niem, Nguyen Thi Nguyet, and Que Phuong gather for a meal with friends
+  description: Tôn Thất Niệm, Nguyễn Thị Nguyệt, and Quế Phương
+  vn-description: Tôn Thất Niệm, Nguyễn Thị Nguyệt, và Quế Phương
 - filename: tonthat_niem_chau_que_phuong_1
-  description: Ton-That Niem, Chau, and Que Phuong
+  description: Tôn Thất Niệm, Châu, and Quế Phương
+  vn-description: Tôn Thất Niệm, Châu, và Quế Phương
 - filename: tonthat_huan_birthday
-  description: Ton-That Huan's birthday party
+  description: Tôn Thất Huan's birthday party
+  vn-description: Sinh nhật Tôn Thất Huan
 - filename: nguyen_thi_nguyet_chau_que_phuong
-  description: Nguyen Thi Nguyet with Chau and Que Phuong
+  description: Nguyễn Thị Nguyệt, Châu, and Quế Phương
+  vn-description: Nguyễn Thị Nguyệt, Châu, và Quế Phương
 - filename: tonthat_niem_chau_que_phuong_2
-  description: Ton-That Niem, Chau, and Que Phuong
+  description: Tôn Thất Niệm, Châu, and Quế Phương
+  vn-description: Nguyễn Thị Nguyệt, Châu, và Quế Phương
 - filename: tonthat_nguyen_que_phuong_huan
-  description: Ton-That Niem, Nguyen Thi Nguyet, Que Phuong, and Huan
+  description: Tôn Thất Niệm, Nguyễn Thị Nguyệt, Quế Phương, and Huan
+  vn-description: Tôn Thất Niệm, Nguyễn Thị Nguyệt, Quế Phương, và Huan
+- filename: tonthat_niem_1954_geneva
+  description: 1954 Tôn Thất Niệm in Geneva
+  vn-description: 1954 Tôn Thất Niệm ở Geneva
 - filename: tonthat_niem_doctor_1958
-  description: Ton-That Niem as a doctor in 1958
+  description: Tôn Thất Niệm as a doctor in 1958
+  vn-description: Tôn Thất Niệm làm bác sĩ 1958
+- filename: nguyen_thi_nguyet-7
+  description: Nguyễn Thị Nguyệt
+  vn-description: Nguyễn Thị Nguyệt
 - filename: tonthat_niem_singer_license_1969
-  description: Ton-That Niem's singer license 1969
+  description: Tôn Thất Niệm's singer license 1969
+  vn-description: Thẻ nghị sĩ Tôn Thất Niệm 1969
+- filename: nguyen_thi_nguyet-8
+  description: Nguyễn Thị Nguyệt
+  vn-description: Nguyễn Thị Nguyệt
 - filename: tonthat_niem_government
-  description: Ton-That Niem participating in government
+  description: Tôn Thất Niệm participating in government
+  vn-description: Tôn Thất Niệm
+- filename: nguyen_thi_nguyet-2
+  description: Nguyễn Thị Nguyệt
+  vn-description: Nguyễn Thị Nguyệt
 - filename: tonthat_nguyen_family
   description: Family photo
+  vn-description: Hính gia đình
 - filename: tonthat_nguyen_parents
-  description: Ton-That Niem and Nguyen Thi Nguyet with her father and step-mother
+  description: Tôn Thất Niệm and Nguyễn Thị Nguyệt with her father and step-mother
+  vn-description: Tôn Thất Niệm and Nguyễn Thị Nguyệt với ba mẹ
 - filename: tonthat_family_next_gen
-  description: The Ton-That family
+  description: The Tôn Thất family
+  vn-description: Gia đình Tôn Thất
 - filename: nguyen_family
-  description: The Nguyen family
+  description: The Nguyễn family
+  vn-description: Gia đình Nguyễn
 - filename: tonthat_niem_government_2
-  description: Ton-That Niem participating in government
+  description: Tôn Thất Niệm participating in government
+  vn-description: Tôn Thất Niệm
 - filename: tonthat_niem_government_3
-  description: Ton-That Niem participating in government
+  description: Tôn Thất Niệm participating in government
+  vn-description: Tôn Thất Niệm
 - filename: tonthat_niem_government_4
-  description: Ton-That Niem participating in government
+  description: Tôn Thất Niệm participating in government
+  vn-description: Tôn Thất Niệm
 - filename: tonthat_niem_government_5
-  description: Ton-That Niem participating in government
+  description: Tôn Thất Niệm participating in government
+  vn-description: Tôn Thất Niệm
 - filename: tonthat_niem_government_6
-  description: Ton-That Niem participating in government
+  description: Tôn Thất Niệm participating in government
+  vn-description: Tôn Thất Niệm
 - filename: tonthat_niem_government_7
-  description: Ton-That Niem participating in government
+  description: Tôn Thất Niệm participating in government
+  vn-description: Tôn Thất Niệm
 - filename: tonthat_niem_government_8
-  description: Ton-That Niem participating in government
+  description: Tôn Thất Niệm participating in government
+  vn-description: Tôn Thất Niệm
 - filename: tonthat_niem_government_9
-  description: Ton-That Niem participating in government
+  description: Tôn Thất Niệm participating in government
+  vn-description: Tôn Thất Niệm
 - filename: tonthat_nguyen_california
-  description: Ton-That Niem and Nguyen Thi Nguyet in California
+  description: Tôn Thất Niệm and Nguyễn Thị Nguyệt in California
+  vn-description: Tôn Thất Niệm và Nguyễn Thị Nguyệt ở Cali
+- filename: nguyen_thi_nguyet-6
+  description: "Left to right: Tôn Nủ Nghiêm, Thiếm, Bà Cố, Tôn Nủ Trang, Nguyễn Thị Nguyệt"
+  vn-description: "Bên trái đến bên phải: Tôn Nủ Nghiêm, Thiếm, Bà Cố, Tôn Nủ Trang, Nguyễn Thị Nguyệt"
+- filename: nguyen_thi_nguyet-1
+  description: Nguyễn Thị Nguyệt
+  vn-description: Nguyễn Thị Nguyệt
 - filename: tonthat_nguyen_family_bao_dai
   description: The family and former emperor Bao Dai
+  vn-description: The family and former emperor Bao Dai
 - filename: tonthat_niem_friend
-  description: Ton-That Niem and his friend
+  description: Tôn Thất Niệm and his friend
+  vn-description: Tôn Thất Niệm and his friend
 - filename: tonthat_nguyen_event
-  description: Ton-That Niem and Nguyen Thi Nguyet at an event
+  description: Tôn Thất Niệm and Nguyễn Thị Nguyệt at an event
+  vn-description: Tôn Thất Niệm and Nguyễn Thị Nguyệt at an event
 - filename: tonthat_niem_speaking_us
-  description: Ton-That Niem speaking at an event in the US
+  description: Tôn Thất Niệm speaking at an event in the US
+  vn-description: Tôn Thất Niệm speaking at an event in the US
+- filename: nguyen_thi_nguyet-11
+  description: Nguyễn Thị Nguyệt
+  vn-description: Nguyễn Thị Nguyệt
 - filename: tonthat_niem_vmsa
-  description: Ton-That Niem speaking at the Vietnamese Mutual Support Association
+  description: Tôn Thất Niệm speaking at the Vietnamese Mutual Support Association
+  vn-description: Tôn Thất Niệm
+- filename: tonthat_nguyen_1981
+  description: Tôn Thất Châu's graduation
+  vn-description: Tôn Thất Châu tốt nghiệp
 - filename: tonthat_niem_vma
-  description: Ton-That Niem speaking
+  description: Tôn Thất Niệm speaking
+  vn-description: Tôn Thất Niệm
 - filename: tonthat_nguyen_60th_anniversary
   description: The family at their 60th wedding anniversary party
-# - filename:
-#   description:
-# - filename:
-#   description:
-# - filename:
-#   description:
-# - filename:
-#   description:
-# - filename:
-#   description:
-# - filename:
-#   description:
+  vn-description: 60th lễ kỷ niệm
+
 # - filename:
 #   description:
 # - filename:
