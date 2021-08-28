@@ -1,15 +1,8 @@
 <div class="grid">
   <div class="grid-sizer"></div>
-  <!-- {% for image in site.static_files %}
-      {% if image.path contains 'images' %}
-      <div class="grid-item">
-          <img src="{{site.baseurl}}{{image.path}}" alt="{{image.path}}" title="{{image.path}}"/>
-      </div>
-      {% endif %}
-  {% endfor %} -->
   {% for image_item in site.data.image_info %}
     <div class="grid-item">
-      <img src="{{site.baseurl}}/assets/images/{{image_item.filename}}.JPG" alt="{{image_item.description}}" title="{{image_item.description}}"/>
+      <img data-action="lumos" src="{{site.baseurl}}/assets/images/{{image_item.filename}}.jpg" alt="{{image_item.description}}" title="{{image_item.description}}"/>
     </div>
   {% endfor %}
 </div>
