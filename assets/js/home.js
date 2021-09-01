@@ -11,10 +11,17 @@ jQuery(document).ready(function($){
         $grid.masonry();
     });
 
-    // $grid.on( 'click', '.grid-item', function() {
-    //     // change size of item via class
-    //     $( this ).toggleClass('grid-item--gigante');
-    //     // trigger layout
-    //     $grid.masonry();
-    // });
+    var LuminousGallery = window.LuminousGallery;
+
+    new LuminousGallery(
+        document.querySelectorAll("a"), 
+        {
+            arrowNavigation: true
+        }, 
+        {
+            caption: function(trigger) {
+                return trigger.querySelector("img").getAttribute("alt");
+            }
+        }
+    );
 });

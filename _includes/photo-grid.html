@@ -2,7 +2,9 @@
   <div class="grid-sizer"></div>
   {% for image_item in site.data.image_info %}
     <div class="grid-item">
-      <img data-action="lumos" data-lumos-caption="{{image_item.description}}" src="{{site.baseurl}}/assets/images/{{image_item.filename}}.jpg" alt="{{image_item.description}}" title="{{image_item.description}}"/>
+      <a class="luminous" href="{{site.baseurl}}/assets/images/{{image_item.filename}}.jpg">
+        <img src="{{site.baseurl}}/assets/images/{{image_item.filename}}.jpg" alt="{{image_item.description}}" title="{{image_item.description}}"/>
+      </a>
     </div>
   {% endfor %}
 </div>
