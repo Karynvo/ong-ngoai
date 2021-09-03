@@ -14,7 +14,7 @@ jQuery(document).ready(function($){
     var LuminousGallery = window.LuminousGallery;
 
     new LuminousGallery(
-        document.querySelectorAll("a"), 
+        document.querySelectorAll(".luminous-img"), 
         {
             arrowNavigation: true
         }, 
